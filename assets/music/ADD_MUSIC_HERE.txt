@@ -1,0 +1,1 @@
+Put your MP3 here named our-song.mp3, or change CONFIG.music in index.html.\n

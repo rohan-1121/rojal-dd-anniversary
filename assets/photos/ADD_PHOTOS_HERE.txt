@@ -1,0 +1,1 @@
+Put your 12 photos in this folder. Use photo-01.jpg through photo-12.jpg. If you use other names/extensions, update CONFIG.photos in index.html.\n
